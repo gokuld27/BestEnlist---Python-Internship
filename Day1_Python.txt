@@ -1,0 +1,7 @@
+Day 1 : Python Task 30 days 30 Hours Challenge
+Gokul Dhakshana Murthy
+Today task: 
+1.create GitHub account
+2.create linkedin account
+3.download python ide 
+4.practice basic program today what we have seen (addition, maximum etc)
