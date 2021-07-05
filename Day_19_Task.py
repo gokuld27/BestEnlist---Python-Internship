@@ -4,7 +4,7 @@ try:
     mydb = mysql.connector.connect(
       host="localhost",
       user="root",
-      password="createpas",
+      password="*********",
       database="free",
       buffered = True,
     )
