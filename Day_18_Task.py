@@ -5,7 +5,7 @@
 import mysql.connector
 try:
     # connecting database with python
-    con = mysql.connector.connect(host = 'localhost', user = 'root', password = 'createpas')
+    con = mysql.connector.connect(host = 'localhost', user = 'root', password = '*******')
       
     cursor = con.cursor()
     #Creating Table
